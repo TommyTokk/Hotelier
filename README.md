@@ -1,7 +1,7 @@
 # Hotelier
 
 ## What's inside the repository?
-The repository contains the project for the CS course of Laboratorio di Reti (Networks Laboratory) of the University of Pisa. The project is a simple hotel management system that allows the user to book a room, check-in, check-out, and get information about the hotel.
+The repository contains the project for the CS course of Laboratorio di Reti (Networks Laboratory) of the University of Pisa. The project is a simple hotel management system that allows the user to get information about the hotel.
 
 ## How to run the project?
 Inside the repository there is a Makefile that allows you to compile the project. To compile the project, you can run the following command:
